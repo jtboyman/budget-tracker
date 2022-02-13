@@ -22,7 +22,7 @@
   ## Usage:
   Simply enter a name for the transaction, a dollar amount, and then click add or subtract based on the transaction. Note that offline transactions will be saved when internet connection is restored. 
     ![app screenshot](./public/images/budget-tracker-screenshot.png)
-  
+S  
  ## License:
   Licensed under the MIT license.
 
